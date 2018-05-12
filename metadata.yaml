@@ -1,0 +1,34 @@
+_repo: Stories-from-Tagore_33525
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33525-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2010-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33525'
+  lccn: '18019579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Textbooks for foreign speakers -- Indic'
+- !lcsh 'India -- Social life and customs -- Fiction'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into English'
+- !lcc 'PK'
+- !lcsh 'Short stories, Bengali -- Translations into English'
+tableOfContents: The Cabuliwalla -- The home-coming -- Once there was a king -- The
+  child's return -- Master Mashai -- Subha -- The postmaster -- The castaway -- The
+  son of Rashmani -- The Babus of Nayanjore.
+title: Stories from Tagore
+url: http://www.gutenberg.org/ebooks/33525
